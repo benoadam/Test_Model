@@ -2,6 +2,8 @@
 
 #include "AutoTest.h"
 #include <QDebug>
+#include "coords.h"
+#include <iostream>
 
 //#if 1
 //// This is all you need to run all the tests
@@ -9,8 +11,11 @@
 //#else
 // Or supply your own main function
 
+using namespace std;
 int main(int argc, char *argv[])
 {
+
+
     int failures = AutoTest::run(argc, argv);
     if (failures == 0)
     {
@@ -20,24 +25,18 @@ int main(int argc, char *argv[])
     {
     qDebug() << failures << " TESTS FAILED!";
     }
+
+    Coords c1(38,53,20.9,-77,2,56.4);
+    cout<<"aaaa"<<endl;
+    double x=c1.getCartX();
+    double y=c1.getCartY();
+    double z=c1.getCartZ();
+
+    cout<<"x: "<<x<<"y: "<<y<<"z: "<<z<<endl;
+
     return failures;
  }
 //#endif
 
 
-main(int argc, char **argv) {
-     projPJ pj_merc, pj_latlong;
-     double x, y;
 
-     if (!(pj_merc = pj_init_plus("+proj=merc +ellps=clrk66 +lat_ts=33")) )
-        exit(1);
-     if (!(pj_latlong = pj_init_plus("+proj=latlong +ellps=clrk66")) )
-        exit(1);
-     while (scanf("%lf %lf", &x, &y) == 2) {
-        x *= DEG_TO_RAD;
-        y *= DEG_TO_RAD;
-        p = pj_transform(pj_latlong, pj_merc, 1, 1, &x, &y, NULL );
-        printf("%.2f\t%.2f\n", x, y);
-     }
-     exit(0);
-}

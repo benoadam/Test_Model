@@ -1,0 +1,100 @@
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Namespace List}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Hierarchical Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Class Hierarchy}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Class Index}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Class List}{5}{section.3.1}
+\contentsline {chapter}{\numberline {4}File Index}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}File List}{7}{section.4.1}
+\contentsline {chapter}{\numberline {5}Namespace Documentation}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Auto\discretionary {-}{}{}Test Namespace Reference}{9}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Typedef Documentation}{9}{subsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.1.1}Test\discretionary {-}{}{}List}{9}{subsubsection.5.1.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Function Documentation}{9}{subsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.2.1}add\discretionary {-}{}{}Test}{9}{subsubsection.5.1.2.1}
+\contentsline {subsubsection}{\numberline {5.1.2.2}find\discretionary {-}{}{}Object}{10}{subsubsection.5.1.2.2}
+\contentsline {subsubsection}{\numberline {5.1.2.3}run}{10}{subsubsection.5.1.2.3}
+\contentsline {subsubsection}{\numberline {5.1.2.4}test\discretionary {-}{}{}List}{10}{subsubsection.5.1.2.4}
+\contentsline {chapter}{\numberline {6}Class Documentation}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Coords Class Reference}{11}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Detailed Description}{11}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Constructor \& Destructor Documentation}{11}{subsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.2.1}Coords}{11}{subsubsection.6.1.2.1}
+\contentsline {subsubsection}{\numberline {6.1.2.2}Coords}{12}{subsubsection.6.1.2.2}
+\contentsline {subsection}{\numberline {6.1.3}Member Function Documentation}{12}{subsection.6.1.3}
+\contentsline {subsubsection}{\numberline {6.1.3.1}Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec}{12}{subsubsection.6.1.3.1}
+\contentsline {subsubsection}{\numberline {6.1.3.2}get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}{12}{subsubsection.6.1.3.2}
+\contentsline {subsubsection}{\numberline {6.1.3.3}get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}{12}{subsubsection.6.1.3.3}
+\contentsline {subsubsection}{\numberline {6.1.3.4}get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}{12}{subsubsection.6.1.3.4}
+\contentsline {subsubsection}{\numberline {6.1.3.5}get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}{12}{subsubsection.6.1.3.5}
+\contentsline {subsubsection}{\numberline {6.1.3.6}get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}{12}{subsubsection.6.1.3.6}
+\contentsline {subsubsection}{\numberline {6.1.3.7}get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}{12}{subsubsection.6.1.3.7}
+\contentsline {subsubsection}{\numberline {6.1.3.8}get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}{12}{subsubsection.6.1.3.8}
+\contentsline {subsubsection}{\numberline {6.1.3.9}get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}{13}{subsubsection.6.1.3.9}
+\contentsline {subsubsection}{\numberline {6.1.3.10}set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}{13}{subsubsection.6.1.3.10}
+\contentsline {subsubsection}{\numberline {6.1.3.11}set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}{13}{subsubsection.6.1.3.11}
+\contentsline {subsubsection}{\numberline {6.1.3.12}set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}{13}{subsubsection.6.1.3.12}
+\contentsline {subsubsection}{\numberline {6.1.3.13}set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}{13}{subsubsection.6.1.3.13}
+\contentsline {subsubsection}{\numberline {6.1.3.14}set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}{13}{subsubsection.6.1.3.14}
+\contentsline {subsubsection}{\numberline {6.1.3.15}set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}{13}{subsubsection.6.1.3.15}
+\contentsline {subsubsection}{\numberline {6.1.3.16}set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}{13}{subsubsection.6.1.3.16}
+\contentsline {subsubsection}{\numberline {6.1.3.17}set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}{13}{subsubsection.6.1.3.17}
+\contentsline {section}{\numberline {6.2}Radar Class Reference}{13}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Detailed Description}{14}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Constructor \& Destructor Documentation}{14}{subsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.2.1}Radar}{14}{subsubsection.6.2.2.1}
+\contentsline {subsection}{\numberline {6.2.3}Member Function Documentation}{14}{subsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.3.1}get\discretionary {-}{}{}Distance}{14}{subsubsection.6.2.3.1}
+\contentsline {subsection}{\numberline {6.2.4}Member Data Documentation}{14}{subsection.6.2.4}
+\contentsline {subsubsection}{\numberline {6.2.4.1}direct\discretionary {-}{}{}Distance}{14}{subsubsection.6.2.4.1}
+\contentsline {subsubsection}{\numberline {6.2.4.2}other\discretionary {-}{}{}Poz}{15}{subsubsection.6.2.4.2}
+\contentsline {subsubsection}{\numberline {6.2.4.3}sac}{15}{subsubsection.6.2.4.3}
+\contentsline {subsubsection}{\numberline {6.2.4.4}self\discretionary {-}{}{}Poz}{15}{subsubsection.6.2.4.4}
+\contentsline {section}{\numberline {6.3}Test$<$ T $>$ Class Template Reference}{15}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Constructor \& Destructor Documentation}{15}{subsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.1.1}Test}{15}{subsubsection.6.3.1.1}
+\contentsline {subsection}{\numberline {6.3.2}Member Data Documentation}{15}{subsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.2.1}child}{15}{subsubsection.6.3.2.1}
+\contentsline {section}{\numberline {6.4}Test\discretionary {-}{}{}Coord Class Reference}{16}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Constructor \& Destructor Documentation}{16}{subsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.1.1}Test\discretionary {-}{}{}Coord}{16}{subsubsection.6.4.1.1}
+\contentsline {section}{\numberline {6.5}Test\discretionary {-}{}{}Radar Class Reference}{16}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Constructor \& Destructor Documentation}{17}{subsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.1.1}Test\discretionary {-}{}{}Radar}{17}{subsubsection.6.5.1.1}
+\contentsline {chapter}{\numberline {7}File Documentation}{19}{chapter.7}
+\contentsline {section}{\numberline {7.1}Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h File Reference}{19}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Macro Definition Documentation}{20}{subsection.7.1.1}
+\contentsline {subsubsection}{\numberline {7.1.1.1}D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}{20}{subsubsection.7.1.1.1}
+\contentsline {subsubsection}{\numberline {7.1.1.2}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N}{20}{subsubsection.7.1.1.2}
+\contentsline {section}{\numberline {7.2}coords.\discretionary {-}{}{}cpp File Reference}{21}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Detailed Description}{21}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Function Documentation}{21}{subsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.2.1}sgn}{21}{subsubsection.7.2.2.1}
+\contentsline {section}{\numberline {7.3}coords.\discretionary {-}{}{}h File Reference}{21}{section.7.3}
+\contentsline {section}{\numberline {7.4}main.\discretionary {-}{}{}cpp File Reference}{22}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Function Documentation}{23}{subsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.1.1}main}{23}{subsubsection.7.4.1.1}
+\contentsline {section}{\numberline {7.5}radar.\discretionary {-}{}{}cpp File Reference}{24}{section.7.5}
+\contentsline {section}{\numberline {7.6}radar.\discretionary {-}{}{}h File Reference}{24}{section.7.6}
+\contentsline {section}{\numberline {7.7}test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp File Reference}{25}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}Function Documentation}{26}{subsection.7.7.1}
+\contentsline {subsubsection}{\numberline {7.7.1.1}cut\discretionary {-}{}{}Number}{26}{subsubsection.7.7.1.1}
+\contentsline {subsection}{\numberline {7.7.2}Variable Documentation}{26}{subsection.7.7.2}
+\contentsline {subsubsection}{\numberline {7.7.2.1}cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat}{26}{subsubsection.7.7.2.1}
+\contentsline {subsubsection}{\numberline {7.7.2.2}cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long}{26}{subsubsection.7.7.2.2}
+\contentsline {subsubsection}{\numberline {7.7.2.3}mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37}{26}{subsubsection.7.7.2.3}
+\contentsline {subsubsection}{\numberline {7.7.2.4}mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor}{26}{subsubsection.7.7.2.4}
+\contentsline {subsubsection}{\numberline {7.7.2.5}mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}{26}{subsubsection.7.7.2.5}
+\contentsline {subsubsection}{\numberline {7.7.2.6}mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}{26}{subsubsection.7.7.2.6}
+\contentsline {subsubsection}{\numberline {7.7.2.7}po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}{26}{subsubsection.7.7.2.7}
+\contentsline {section}{\numberline {7.8}test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}h File Reference}{26}{section.7.8}
+\contentsline {section}{\numberline {7.9}test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp File Reference}{27}{section.7.9}
+\contentsline {subsection}{\numberline {7.9.1}Variable Documentation}{27}{subsection.7.9.1}
+\contentsline {subsubsection}{\numberline {7.9.1.1}mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37}{27}{subsubsection.7.9.1.1}
+\contentsline {subsubsection}{\numberline {7.9.1.2}mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor}{28}{subsubsection.7.9.1.2}
+\contentsline {subsubsection}{\numberline {7.9.1.3}mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}{28}{subsubsection.7.9.1.3}
+\contentsline {subsubsection}{\numberline {7.9.1.4}mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}{28}{subsubsection.7.9.1.4}
+\contentsline {subsubsection}{\numberline {7.9.1.5}po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}{28}{subsubsection.7.9.1.5}
+\contentsline {subsubsection}{\numberline {7.9.1.6}r1}{28}{subsubsection.7.9.1.6}
+\contentsline {section}{\numberline {7.10}test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}h File Reference}{28}{section.7.10}
+\contentsline {chapter}{Index}{29}{section*.25}

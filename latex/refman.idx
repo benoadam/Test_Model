@@ -1,0 +1,120 @@
+\indexentry{Auto\discretionary {-}{}{}Test@{Auto\discretionary {-}{}{}Test}|hyperpage}{9}
+\indexentry{Auto\discretionary {-}{}{}Test@{Auto\discretionary {-}{}{}Test}!Test\discretionary {-}{}{}List@{Test\discretionary {-}{}{}List}|hyperpage}{9}
+\indexentry{Test\discretionary {-}{}{}List@{Test\discretionary {-}{}{}List}!AutoTest@{Auto\discretionary {-}{}{}Test}|hyperpage}{9}
+\indexentry{Auto\discretionary {-}{}{}Test@{Auto\discretionary {-}{}{}Test}!add\discretionary {-}{}{}Test@{add\discretionary {-}{}{}Test}|hyperpage}{9}
+\indexentry{add\discretionary {-}{}{}Test@{add\discretionary {-}{}{}Test}!AutoTest@{Auto\discretionary {-}{}{}Test}|hyperpage}{9}
+\indexentry{Auto\discretionary {-}{}{}Test@{Auto\discretionary {-}{}{}Test}!find\discretionary {-}{}{}Object@{find\discretionary {-}{}{}Object}|hyperpage}{9}
+\indexentry{find\discretionary {-}{}{}Object@{find\discretionary {-}{}{}Object}!AutoTest@{Auto\discretionary {-}{}{}Test}|hyperpage}{9}
+\indexentry{Auto\discretionary {-}{}{}Test@{Auto\discretionary {-}{}{}Test}!run@{run}|hyperpage}{10}
+\indexentry{run@{run}!AutoTest@{Auto\discretionary {-}{}{}Test}|hyperpage}{10}
+\indexentry{Auto\discretionary {-}{}{}Test@{Auto\discretionary {-}{}{}Test}!test\discretionary {-}{}{}List@{test\discretionary {-}{}{}List}|hyperpage}{10}
+\indexentry{test\discretionary {-}{}{}List@{test\discretionary {-}{}{}List}!AutoTest@{Auto\discretionary {-}{}{}Test}|hyperpage}{10}
+\indexentry{Coords@{Coords}|hyperpage}{11}
+\indexentry{Coords@{Coords}!Coords@{Coords}|hyperpage}{11}
+\indexentry{Coords@{Coords}!Coords@{Coords}|hyperpage}{11}
+\indexentry{Coords@{Coords}!Coords@{Coords}|hyperpage}{11}
+\indexentry{Coords@{Coords}!Coords@{Coords}|hyperpage}{11}
+\indexentry{Coords@{Coords}!Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec@{Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec}|hyperpage}{12}
+\indexentry{Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec@{Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude@{get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude@{get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude@{get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude@{get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D@{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D@{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M@{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M@{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S@{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S@{get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D@{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D@{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M@{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M@{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S@{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}|hyperpage}{12}
+\indexentry{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S@{get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}!Coords@{Coords}|hyperpage}{12}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude@{set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude@{set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude@{set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude@{set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D@{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D@{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M@{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M@{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S@{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S@{set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D@{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D@{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M@{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M@{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Coords@{Coords}!set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S@{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}|hyperpage}{13}
+\indexentry{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S@{set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}!Coords@{Coords}|hyperpage}{13}
+\indexentry{Radar@{Radar}|hyperpage}{13}
+\indexentry{Radar@{Radar}!Radar@{Radar}|hyperpage}{14}
+\indexentry{Radar@{Radar}!Radar@{Radar}|hyperpage}{14}
+\indexentry{Radar@{Radar}!get\discretionary {-}{}{}Distance@{get\discretionary {-}{}{}Distance}|hyperpage}{14}
+\indexentry{get\discretionary {-}{}{}Distance@{get\discretionary {-}{}{}Distance}!Radar@{Radar}|hyperpage}{14}
+\indexentry{Radar@{Radar}!direct\discretionary {-}{}{}Distance@{direct\discretionary {-}{}{}Distance}|hyperpage}{14}
+\indexentry{direct\discretionary {-}{}{}Distance@{direct\discretionary {-}{}{}Distance}!Radar@{Radar}|hyperpage}{14}
+\indexentry{Radar@{Radar}!other\discretionary {-}{}{}Poz@{other\discretionary {-}{}{}Poz}|hyperpage}{14}
+\indexentry{other\discretionary {-}{}{}Poz@{other\discretionary {-}{}{}Poz}!Radar@{Radar}|hyperpage}{14}
+\indexentry{Radar@{Radar}!sac@{sac}|hyperpage}{15}
+\indexentry{sac@{sac}!Radar@{Radar}|hyperpage}{15}
+\indexentry{Radar@{Radar}!self\discretionary {-}{}{}Poz@{self\discretionary {-}{}{}Poz}|hyperpage}{15}
+\indexentry{self\discretionary {-}{}{}Poz@{self\discretionary {-}{}{}Poz}!Radar@{Radar}|hyperpage}{15}
+\indexentry{Test$<$ T $>$@{Test$<$ T $>$}|hyperpage}{15}
+\indexentry{Test@{Test}!Test@{Test}|hyperpage}{15}
+\indexentry{Test@{Test}!Test@{Test}|hyperpage}{15}
+\indexentry{Test@{Test}!child@{child}|hyperpage}{15}
+\indexentry{child@{child}!Test@{Test}|hyperpage}{15}
+\indexentry{Test\discretionary {-}{}{}Coord@{Test\discretionary {-}{}{}Coord}|hyperpage}{16}
+\indexentry{Test\discretionary {-}{}{}Coord@{Test\discretionary {-}{}{}Coord}!Test\discretionary {-}{}{}Coord@{Test\discretionary {-}{}{}Coord}|hyperpage}{16}
+\indexentry{Test\discretionary {-}{}{}Coord@{Test\discretionary {-}{}{}Coord}!TestCoord@{Test\discretionary {-}{}{}Coord}|hyperpage}{16}
+\indexentry{Test\discretionary {-}{}{}Radar@{Test\discretionary {-}{}{}Radar}|hyperpage}{16}
+\indexentry{Test\discretionary {-}{}{}Radar@{Test\discretionary {-}{}{}Radar}!Test\discretionary {-}{}{}Radar@{Test\discretionary {-}{}{}Radar}|hyperpage}{17}
+\indexentry{Test\discretionary {-}{}{}Radar@{Test\discretionary {-}{}{}Radar}!TestRadar@{Test\discretionary {-}{}{}Radar}|hyperpage}{17}
+\indexentry{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h@{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}|hyperpage}{19}
+\indexentry{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h@{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}!D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T@{D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}|hyperpage}{20}
+\indexentry{D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T@{D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}!AutoTest.h@{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}|hyperpage}{20}
+\indexentry{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h@{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}!T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N@{T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N}|hyperpage}{20}
+\indexentry{T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N@{T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N}!AutoTest.h@{Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}|hyperpage}{20}
+\indexentry{coords.\discretionary {-}{}{}cpp@{coords.\discretionary {-}{}{}cpp}|hyperpage}{21}
+\indexentry{coords.\discretionary {-}{}{}cpp@{coords.\discretionary {-}{}{}cpp}!sgn@{sgn}|hyperpage}{21}
+\indexentry{sgn@{sgn}!coords.cpp@{coords.\discretionary {-}{}{}cpp}|hyperpage}{21}
+\indexentry{coords.\discretionary {-}{}{}h@{coords.\discretionary {-}{}{}h}|hyperpage}{21}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{22}
+\indexentry{main.\discretionary {-}{}{}cpp@{main.\discretionary {-}{}{}cpp}!main@{main}|hyperpage}{23}
+\indexentry{main@{main}!main.cpp@{main.\discretionary {-}{}{}cpp}|hyperpage}{23}
+\indexentry{radar.\discretionary {-}{}{}cpp@{radar.\discretionary {-}{}{}cpp}|hyperpage}{24}
+\indexentry{radar.\discretionary {-}{}{}h@{radar.\discretionary {-}{}{}h}|hyperpage}{24}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{25}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!cut\discretionary {-}{}{}Number@{cut\discretionary {-}{}{}Number}|hyperpage}{26}
+\indexentry{cut\discretionary {-}{}{}Number@{cut\discretionary {-}{}{}Number}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat@{cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat}|hyperpage}{26}
+\indexentry{cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat@{cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long@{cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long}|hyperpage}{26}
+\indexentry{cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long@{cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37@{mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37}|hyperpage}{26}
+\indexentry{mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37@{mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor@{mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor}|hyperpage}{26}
+\indexentry{mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor@{mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}|hyperpage}{26}
+\indexentry{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}|hyperpage}{26}
+\indexentry{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}!po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5@{po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}|hyperpage}{26}
+\indexentry{po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5@{po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}!test_coord.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}h@{test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}h}|hyperpage}{26}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{27}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}!mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37@{mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37}|hyperpage}{27}
+\indexentry{mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37@{mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37}!test_radar.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{27}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}!mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor@{mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor}|hyperpage}{27}
+\indexentry{mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor@{mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor}!test_radar.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{27}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}!mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}|hyperpage}{28}
+\indexentry{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}!test_radar.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{28}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}!mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}|hyperpage}{28}
+\indexentry{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav@{mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}!test_radar.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{28}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}!po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5@{po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}|hyperpage}{28}
+\indexentry{po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5@{po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}!test_radar.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{28}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}!r1@{r1}|hyperpage}{28}
+\indexentry{r1@{r1}!test_radar.cpp@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}|hyperpage}{28}
+\indexentry{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}h@{test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}h}|hyperpage}{28}

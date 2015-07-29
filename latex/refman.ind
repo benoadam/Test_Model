@@ -1,0 +1,248 @@
+\begin{theindex}
+
+  \item {add\discretionary {-}{}{}Test}
+    \subitem {Auto\discretionary {-}{}{}Test}, \hyperpage{9}
+  \item {Auto\discretionary {-}{}{}Test}, \hyperpage{9}
+    \subitem {add\discretionary {-}{}{}Test}, \hyperpage{9}
+    \subitem {find\discretionary {-}{}{}Object}, \hyperpage{9}
+    \subitem {run}, \hyperpage{10}
+    \subitem {Test\discretionary {-}{}{}List}, \hyperpage{9}
+    \subitem {test\discretionary {-}{}{}List}, \hyperpage{10}
+  \item {Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}, 
+		\hyperpage{19}
+    \subitem {D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}, 
+		\hyperpage{20}
+    \subitem {T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N}, 
+		\hyperpage{20}
+
+  \indexspace
+
+  \item {child}
+    \subitem {Test}, \hyperpage{15}
+  \item {Coords}, \hyperpage{11}
+    \subitem {Coords}, \hyperpage{11}
+    \subitem {Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}, 
+		\hyperpage{12}
+    \subitem {get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}, 
+		\hyperpage{12}
+    \subitem {set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}, 
+		\hyperpage{13}
+    \subitem {set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}, 
+		\hyperpage{13}
+  \item {coords.\discretionary {-}{}{}cpp}, \hyperpage{21}
+    \subitem {sgn}, \hyperpage{21}
+  \item {coords.\discretionary {-}{}{}h}, \hyperpage{21}
+  \item {cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+  \item {cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+  \item {cut\discretionary {-}{}{}Number}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+
+  \indexspace
+
+  \item {D\discretionary {-}{}{}E\discretionary {-}{}{}C\discretionary {-}{}{}L\discretionary {-}{}{}A\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T}
+    \subitem {Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}, 
+		\hyperpage{20}
+  \item {Deg\discretionary {-}{}{}To\discretionary {-}{}{}Dec}
+    \subitem {Coords}, \hyperpage{12}
+  \item {direct\discretionary {-}{}{}Distance}
+    \subitem {Radar}, \hyperpage{14}
+
+  \indexspace
+
+  \item {find\discretionary {-}{}{}Object}
+    \subitem {Auto\discretionary {-}{}{}Test}, \hyperpage{9}
+
+  \indexspace
+
+  \item {get\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Distance}
+    \subitem {Radar}, \hyperpage{14}
+  \item {get\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}
+    \subitem {Coords}, \hyperpage{12}
+  \item {get\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}
+    \subitem {Coords}, \hyperpage{12}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.\discretionary {-}{}{}cpp}, \hyperpage{23}
+  \item {main.\discretionary {-}{}{}cpp}, \hyperpage{22}
+    \subitem {main}, \hyperpage{23}
+  \item {mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{27}
+  \item {mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+  \item {mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{27}
+  \item {mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+  \item {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{28}
+  \item {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{28}
+  \item {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+  \item {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+
+  \indexspace
+
+  \item {other\discretionary {-}{}{}Poz}
+    \subitem {Radar}, \hyperpage{14}
+
+  \indexspace
+
+  \item {po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{28}
+  \item {po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{26}
+
+  \indexspace
+
+  \item {r1}
+    \subitem {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{28}
+  \item {Radar}, \hyperpage{13}
+    \subitem {direct\discretionary {-}{}{}Distance}, \hyperpage{14}
+    \subitem {get\discretionary {-}{}{}Distance}, \hyperpage{14}
+    \subitem {other\discretionary {-}{}{}Poz}, \hyperpage{14}
+    \subitem {Radar}, \hyperpage{14}
+    \subitem {sac}, \hyperpage{15}
+    \subitem {self\discretionary {-}{}{}Poz}, \hyperpage{15}
+  \item {radar.\discretionary {-}{}{}cpp}, \hyperpage{24}
+  \item {radar.\discretionary {-}{}{}h}, \hyperpage{24}
+  \item {run}
+    \subitem {Auto\discretionary {-}{}{}Test}, \hyperpage{10}
+
+  \indexspace
+
+  \item {sac}
+    \subitem {Radar}, \hyperpage{15}
+  \item {self\discretionary {-}{}{}Poz}
+    \subitem {Radar}, \hyperpage{15}
+  \item {set\discretionary {-}{}{}Dec\discretionary {-}{}{}Latitude}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Dec\discretionary {-}{}{}Longitude}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Latitude\discretionary {-}{}{}D}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Latitude\discretionary {-}{}{}M}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Latitude\discretionary {-}{}{}S}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Longitude\discretionary {-}{}{}D}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Longitude\discretionary {-}{}{}M}
+    \subitem {Coords}, \hyperpage{13}
+  \item {set\discretionary {-}{}{}Longitude\discretionary {-}{}{}S}
+    \subitem {Coords}, \hyperpage{13}
+  \item {sgn}
+    \subitem {coords.\discretionary {-}{}{}cpp}, \hyperpage{21}
+
+  \indexspace
+
+  \item {T\discretionary {-}{}{}E\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}M\discretionary {-}{}{}A\discretionary {-}{}{}I\discretionary {-}{}{}N}
+    \subitem {Auto\discretionary {-}{}{}Test.\discretionary {-}{}{}h}, 
+		\hyperpage{20}
+  \item {Test}
+    \subitem {child}, \hyperpage{15}
+    \subitem {Test}, \hyperpage{15}
+  \item {Test$<$ T $>$}, \hyperpage{15}
+  \item {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}cpp}, 
+		\hyperpage{25}
+    \subitem {cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Lat}, 
+		\hyperpage{26}
+    \subitem {cut\discretionary {-}{}{}Dec\discretionary {-}{}{}Long}, 
+		\hyperpage{26}
+    \subitem {cut\discretionary {-}{}{}Number}, \hyperpage{26}
+    \subitem {mich\discretionary {-}{}{}\_\discretionary {-}{}{}p37}, 
+		\hyperpage{26}
+    \subitem {mie\discretionary {-}{}{}\_\discretionary {-}{}{}mor}, 
+		\hyperpage{26}
+    \subitem {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}, 
+		\hyperpage{26}
+    \subitem {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}, 
+		\hyperpage{26}
+    \subitem {po\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}, 
+		\hyperpage{26}
+  \item {test\discretionary {-}{}{}\_\discretionary {-}{}{}coord.\discretionary {-}{}{}h}, 
+		\hyperpage{26}
+  \item {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}cpp}, 
+		\hyperpage{27}
+    \subitem {mich\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}p37}, 
+		\hyperpage{27}
+    \subitem {mie\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor}, 
+		\hyperpage{27}
+    \subitem {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}bucen}, 
+		\hyperpage{28}
+    \subitem {mssr\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}veljav}, 
+		\hyperpage{28}
+    \subitem {po\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}\_\discretionary {-}{}{}mor5}, 
+		\hyperpage{28}
+    \subitem {r1}, \hyperpage{28}
+  \item {test\discretionary {-}{}{}\_\discretionary {-}{}{}radar.\discretionary {-}{}{}h}, 
+		\hyperpage{28}
+  \item {Test\discretionary {-}{}{}Coord}, \hyperpage{16}
+    \subitem {Test\discretionary {-}{}{}Coord}, \hyperpage{16}
+    \subitem {Test\discretionary {-}{}{}Coord}, \hyperpage{16}
+  \item {Test\discretionary {-}{}{}List}
+    \subitem {Auto\discretionary {-}{}{}Test}, \hyperpage{9}
+  \item {test\discretionary {-}{}{}List}
+    \subitem {Auto\discretionary {-}{}{}Test}, \hyperpage{10}
+  \item {Test\discretionary {-}{}{}Radar}, \hyperpage{16}
+    \subitem {Test\discretionary {-}{}{}Radar}, \hyperpage{17}
+    \subitem {Test\discretionary {-}{}{}Radar}, \hyperpage{17}
+
+\end{theindex}

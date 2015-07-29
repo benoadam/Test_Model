@@ -23,6 +23,7 @@ TestCoord::TestCoord(){}
 
 void TestCoord::test_DegreeToDecimal(){
 
+
     cutDecLat=cutNumber(mssr_veljav.getDecLatitude());
     cutDecLong=cutNumber(mssr_veljav.getDecLongitude());
 

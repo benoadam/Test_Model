@@ -1,9 +1,11 @@
 #ifndef COORDS_H
 #define COORDS_H
 
+#include <proj_api.h>
 #include <iostream>
 #include<iomanip>
 #include <cmath>
+#include <stdio.h>
 
 //!  Trieda Coords
 /*!
@@ -19,6 +21,12 @@ private:
 
     double decLatitude;
     double decLongitude;
+    double decHeightAboveGeoid=0;
+
+
+    double cartX;
+    double cartY;
+    double cartZ;
 
 public:
     Coords();
@@ -34,8 +42,12 @@ public:
     void setLongitudeS(double);
 
 
-    void setDecLatitude(double decLatitude);
-    void setDecLongitude(double decLongitude);
+    void setDecLatitude(double);
+    void setDecLongitude(double);
+
+    void setCartX(double);
+    void setCartY(double);
+    void setCartZ(double);
 
    //getters
     double getLatitudeD(void);
@@ -47,7 +59,11 @@ public:
 
     double getDecLatitude();
     double getDecLongitude();
+    double getDecHeightAboveGeoid();
 
+    double getCartX(void);
+    double getCartY(void);
+    double getCartZ(void);
     // degre to decimal
 
     void DegToDec(void);

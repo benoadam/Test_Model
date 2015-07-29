@@ -38,6 +38,32 @@ Coords::Coords(double latitudeD,double latitudeM,double latitudeS,double longitu
 
     this->decLatitude=sgn(this->latitudeD)* (abs(this->latitudeD) + (this->latitudeM / 60.0) + (this->latitudeS / 3600.0)); /**< Prevod zemepisnej sirky do dekadickych stupnov */
     this->decLongitude=sgn(this->longitudeD)* (abs(this->longitudeD) + (this->longitudeM / 60.0) + (this->longitudeS / 3600.0)); /**< Prevod zemepisnej dlzky do dekadickych stupnov */
+
+    //############################## pocitanie cartezkych suradnic pomocou proj4 #####################################################
+       projPJ pj_latlong, pj_geocent;
+        double x,y,z;
+       int p;
+
+       if (!(pj_latlong = pj_init_plus("+proj=latlong +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
+          exit(1);
+       if (!(pj_geocent = pj_init_plus("+proj=geocent +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
+          exit(1);
+
+
+
+
+           this->cartX=this->decLongitude;
+           this->cartY=this->decLatitude;
+           this->cartZ=this->decHeightAboveGeoid;
+
+       this->cartY=38.889139;
+       this->cartX=-77.049;
+           this->cartX *= DEG_TO_RAD;
+           this->cartY *= DEG_TO_RAD;
+           this->cartZ = 0;
+
+           p = pj_transform(pj_latlong, pj_geocent, 1, 1, &this->cartX, &this->cartY, &this->cartZ);
+
 }
 
 //setters
@@ -61,6 +87,11 @@ double Coords::getLongitudeS(){ return this->longitudeS; }
 
 double Coords::getDecLatitude(){return this->decLatitude;}
 double Coords::getDecLongitude(){return this->decLongitude;}
+double Coords::getDecHeightAboveGeoid(){return this->decHeightAboveGeoid;}
+
+double Coords::getCartX(void){return this->cartX;}
+double Coords::getCartY(void){return this->cartY;}
+double Coords::getCartZ(void){return this->cartZ;}
 
  // degree to decimal
 

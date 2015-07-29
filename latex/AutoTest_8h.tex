@@ -1,0 +1,76 @@
+\hypertarget{AutoTest_8h}{\section{Auto\-Test.\-h File Reference}
+\label{AutoTest_8h}\index{Auto\-Test.\-h@{Auto\-Test.\-h}}
+}
+{\ttfamily \#include $<$Q\-Test$>$}\\*
+{\ttfamily \#include $<$Q\-List$>$}\\*
+{\ttfamily \#include $<$Q\-String$>$}\\*
+{\ttfamily \#include $<$Q\-Shared\-Pointer$>$}\\*
+Include dependency graph for Auto\-Test.\-h\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{AutoTest_8h__incl}
+\end{center}
+\end{figure}
+This graph shows which files directly or indirectly include this file\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=325pt]{AutoTest_8h__dep__incl}
+\end{center}
+\end{figure}
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{classTest}{Test$<$ T $>$}
+\end{DoxyCompactItemize}
+\subsection*{Namespaces}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{namespaceAutoTest}{Auto\-Test}
+\end{DoxyCompactItemize}
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{AutoTest_8h_a5247b55353f049080615de0a60b8133e}{D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T}(class\-Name)~static \hyperlink{classTest}{Test}$<$class\-Name$>$ t(\#class\-Name);
+\item 
+\#define \hyperlink{AutoTest_8h_a6ae82246e415b0258c23068cc7a4d5be}{T\-E\-S\-T\-\_\-\-M\-A\-I\-N}
+\end{DoxyCompactItemize}
+\subsection*{Typedefs}
+\begin{DoxyCompactItemize}
+\item 
+typedef Q\-List$<$ Q\-Object $\ast$ $>$ \hyperlink{namespaceAutoTest_af30e241e62927ef8b429177cea542f2f}{Auto\-Test\-::\-Test\-List}
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+Test\-List \& \hyperlink{namespaceAutoTest_ad402cc96e71645ac9d583473f7ddbcd7}{Auto\-Test\-::test\-List} ()
+\item 
+bool \hyperlink{namespaceAutoTest_aebe87b1ec91a09f1b2739cbd4b301345}{Auto\-Test\-::find\-Object} (Q\-Object $\ast$object)
+\item 
+void \hyperlink{namespaceAutoTest_a3d2e7034d932dff0c2ba4170c442f594}{Auto\-Test\-::add\-Test} (Q\-Object $\ast$object)
+\item 
+int \hyperlink{namespaceAutoTest_a3261ec6bff9391a6f6779f63f6663b4b}{Auto\-Test\-::run} (int argc, char $\ast$argv\mbox{[}$\,$\mbox{]})
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\hypertarget{AutoTest_8h_a5247b55353f049080615de0a60b8133e}{\index{Auto\-Test.\-h@{Auto\-Test.\-h}!D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T@{D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T}}
+\index{D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T@{D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T}!AutoTest.h@{Auto\-Test.\-h}}
+\subsubsection[{D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T}]{\setlength{\rightskip}{0pt plus 5cm}\#define D\-E\-C\-L\-A\-R\-E\-\_\-\-T\-E\-S\-T(
+\begin{DoxyParamCaption}
+\item[{}]{class\-Name}
+\end{DoxyParamCaption}
+)~static {\bf Test}$<$class\-Name$>$ t(\#class\-Name);}}\label{AutoTest_8h_a5247b55353f049080615de0a60b8133e}
+\hypertarget{AutoTest_8h_a6ae82246e415b0258c23068cc7a4d5be}{\index{Auto\-Test.\-h@{Auto\-Test.\-h}!T\-E\-S\-T\-\_\-\-M\-A\-I\-N@{T\-E\-S\-T\-\_\-\-M\-A\-I\-N}}
+\index{T\-E\-S\-T\-\_\-\-M\-A\-I\-N@{T\-E\-S\-T\-\_\-\-M\-A\-I\-N}!AutoTest.h@{Auto\-Test.\-h}}
+\subsubsection[{T\-E\-S\-T\-\_\-\-M\-A\-I\-N}]{\setlength{\rightskip}{0pt plus 5cm}\#define T\-E\-S\-T\-\_\-\-M\-A\-I\-N}}\label{AutoTest_8h_a6ae82246e415b0258c23068cc7a4d5be}
+{\bfseries Value\-:}
+\begin{DoxyCode}
+\textcolor{keywordtype}{int} \hyperlink{main_8cpp_a0ddf1224851353fc92bfbff6f499fa97}{main}(\textcolor{keywordtype}{int} argc, \textcolor{keywordtype}{char} *argv[]) \(\backslash\)
+    \{ \(\backslash\)
+      return \hyperlink{namespaceAutoTest_a3261ec6bff9391a6f6779f63f6663b4b}{AutoTest::run}(argc, argv); \(\backslash\)
+  \}
+\end{DoxyCode}

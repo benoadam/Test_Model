@@ -1,0 +1,246 @@
+\hypertarget{classCoords}{\section{Coords Class Reference}
+\label{classCoords}\index{Coords@{Coords}}
+}
+
+
+Trieda \hyperlink{classCoords}{Coords}.  
+
+
+
+
+{\ttfamily \#include $<$coords.\-h$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classCoords_a5922d1783cefa759950faa50ac347191}{Coords} ()
+\item 
+\hyperlink{classCoords_a370c5fad753558f68cfe993ccfa6aefc}{Coords} (double, double, double, double, double, double)
+\item 
+void \hyperlink{classCoords_a0bf0acf0cddd3ca2d010adf98400bb12}{set\-Latitude\-D} (double)
+\item 
+void \hyperlink{classCoords_ad0384a14a8c3665c367723574ed6c145}{set\-Latitude\-M} (double)
+\item 
+void \hyperlink{classCoords_ab87a774c4b6eff3abf498a39e767c416}{set\-Latitude\-S} (double)
+\item 
+void \hyperlink{classCoords_a8d32d6e7a46e5754120f9024c27df7a5}{set\-Longitude\-D} (double)
+\item 
+void \hyperlink{classCoords_a7d54f335e89544d1f1cdab70eebc6fed}{set\-Longitude\-M} (double)
+\item 
+void \hyperlink{classCoords_a5c2ac2d68dee771445b953e158bc5505}{set\-Longitude\-S} (double)
+\item 
+void \hyperlink{classCoords_a6733bf6813065b00d254830f2f02315b}{set\-Dec\-Latitude} (double dec\-Latitude)
+\item 
+void \hyperlink{classCoords_acfe86d1cd0160163dee9119e03a78438}{set\-Dec\-Longitude} (double dec\-Longitude)
+\item 
+double \hyperlink{classCoords_af48729f8925b858e242c630261ed0859}{get\-Latitude\-D} (void)
+\item 
+double \hyperlink{classCoords_a4c836418545be6776c65806286e62084}{get\-Latitude\-M} (void)
+\item 
+double \hyperlink{classCoords_aa73a7700f91f4075638071787b08dd2e}{get\-Latitude\-S} (void)
+\item 
+double \hyperlink{classCoords_a34dffdf0fa5b6f8b7c68abcaa3c947c9}{get\-Longitude\-D} (void)
+\item 
+double \hyperlink{classCoords_a219e69414cb772e743f2ce64060eeac1}{get\-Longitude\-M} (void)
+\item 
+double \hyperlink{classCoords_a75827c87b5718c36f6c8df091e9d025f}{get\-Longitude\-S} (void)
+\item 
+double \hyperlink{classCoords_a9cbddbe1650244f71f2accb3a8c6db4c}{get\-Dec\-Latitude} ()
+\item 
+double \hyperlink{classCoords_a1d965b74b2bae7532f128d790de19f4b}{get\-Dec\-Longitude} ()
+\item 
+void \hyperlink{classCoords_ab7b884f80b3327d5fec4ca379abb92d8}{Deg\-To\-Dec} (void)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Trieda \hyperlink{classCoords}{Coords}. 
+
+Trieda \hyperlink{classCoords}{Coords} predstavuje suradnice radaroveho systemu a ich prevod do roznych typov. 
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{classCoords_a5922d1783cefa759950faa50ac347191}{\index{Coords@{Coords}!Coords@{Coords}}
+\index{Coords@{Coords}!Coords@{Coords}}
+\subsubsection[{Coords}]{\setlength{\rightskip}{0pt plus 5cm}Coords\-::\-Coords (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a5922d1783cefa759950faa50ac347191}
+Impicitny konstruktor \hypertarget{classCoords_a370c5fad753558f68cfe993ccfa6aefc}{\index{Coords@{Coords}!Coords@{Coords}}
+\index{Coords@{Coords}!Coords@{Coords}}
+\subsubsection[{Coords}]{\setlength{\rightskip}{0pt plus 5cm}Coords\-::\-Coords (
+\begin{DoxyParamCaption}
+\item[{double}]{latitude\-D, }
+\item[{double}]{latitude\-M, }
+\item[{double}]{latitude\-S, }
+\item[{double}]{longitude\-D, }
+\item[{double}]{longitude\-M, }
+\item[{double}]{longitude\-S}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a370c5fad753558f68cfe993ccfa6aefc}
+Konstruktor triedy \hyperlink{classCoords}{Coords} obsahujuci vstupne suradnice.
+
+Konstruktor ma ako vstupne argumenty sestticu cisel predstavujucich stupne minuty a sekundy zemepisnej sirky a dlzky.
+
+
+\begin{DoxyParams}{Parameters}
+{\em array\-Size} & size of dynamically allocated array \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+nothing 
+\end{DoxyReturn}
+$<$ Informacia o stupni zemepisnej sirky
+
+$<$ Informacia o minute zemepisnej sirky
+
+$<$ Informacia o sekunde zemepisnej sirky
+
+$<$ Informacia o stupni zemepisnej dlzky
+
+$<$ Informacia o stupni zemepisnej dlzky
+
+$<$ Informacia o stupni zemepisnej dlzky
+
+$<$ Prevod zemepisnej sirky do dekadickych stupnov
+
+$<$ Prevod zemepisnej dlzky do dekadickych stupnov 
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=234pt]{classCoords_a370c5fad753558f68cfe993ccfa6aefc_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+\subsection{Member Function Documentation}
+\hypertarget{classCoords_ab7b884f80b3327d5fec4ca379abb92d8}{\index{Coords@{Coords}!Deg\-To\-Dec@{Deg\-To\-Dec}}
+\index{Deg\-To\-Dec@{Deg\-To\-Dec}!Coords@{Coords}}
+\subsubsection[{Deg\-To\-Dec}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::\-Deg\-To\-Dec (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_ab7b884f80b3327d5fec4ca379abb92d8}
+\hypertarget{classCoords_a9cbddbe1650244f71f2accb3a8c6db4c}{\index{Coords@{Coords}!get\-Dec\-Latitude@{get\-Dec\-Latitude}}
+\index{get\-Dec\-Latitude@{get\-Dec\-Latitude}!Coords@{Coords}}
+\subsubsection[{get\-Dec\-Latitude}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Dec\-Latitude (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a9cbddbe1650244f71f2accb3a8c6db4c}
+\hypertarget{classCoords_a1d965b74b2bae7532f128d790de19f4b}{\index{Coords@{Coords}!get\-Dec\-Longitude@{get\-Dec\-Longitude}}
+\index{get\-Dec\-Longitude@{get\-Dec\-Longitude}!Coords@{Coords}}
+\subsubsection[{get\-Dec\-Longitude}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Dec\-Longitude (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a1d965b74b2bae7532f128d790de19f4b}
+\hypertarget{classCoords_af48729f8925b858e242c630261ed0859}{\index{Coords@{Coords}!get\-Latitude\-D@{get\-Latitude\-D}}
+\index{get\-Latitude\-D@{get\-Latitude\-D}!Coords@{Coords}}
+\subsubsection[{get\-Latitude\-D}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Latitude\-D (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_af48729f8925b858e242c630261ed0859}
+\hypertarget{classCoords_a4c836418545be6776c65806286e62084}{\index{Coords@{Coords}!get\-Latitude\-M@{get\-Latitude\-M}}
+\index{get\-Latitude\-M@{get\-Latitude\-M}!Coords@{Coords}}
+\subsubsection[{get\-Latitude\-M}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Latitude\-M (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a4c836418545be6776c65806286e62084}
+\hypertarget{classCoords_aa73a7700f91f4075638071787b08dd2e}{\index{Coords@{Coords}!get\-Latitude\-S@{get\-Latitude\-S}}
+\index{get\-Latitude\-S@{get\-Latitude\-S}!Coords@{Coords}}
+\subsubsection[{get\-Latitude\-S}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Latitude\-S (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_aa73a7700f91f4075638071787b08dd2e}
+\hypertarget{classCoords_a34dffdf0fa5b6f8b7c68abcaa3c947c9}{\index{Coords@{Coords}!get\-Longitude\-D@{get\-Longitude\-D}}
+\index{get\-Longitude\-D@{get\-Longitude\-D}!Coords@{Coords}}
+\subsubsection[{get\-Longitude\-D}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Longitude\-D (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a34dffdf0fa5b6f8b7c68abcaa3c947c9}
+\hypertarget{classCoords_a219e69414cb772e743f2ce64060eeac1}{\index{Coords@{Coords}!get\-Longitude\-M@{get\-Longitude\-M}}
+\index{get\-Longitude\-M@{get\-Longitude\-M}!Coords@{Coords}}
+\subsubsection[{get\-Longitude\-M}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Longitude\-M (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a219e69414cb772e743f2ce64060eeac1}
+\hypertarget{classCoords_a75827c87b5718c36f6c8df091e9d025f}{\index{Coords@{Coords}!get\-Longitude\-S@{get\-Longitude\-S}}
+\index{get\-Longitude\-S@{get\-Longitude\-S}!Coords@{Coords}}
+\subsubsection[{get\-Longitude\-S}]{\setlength{\rightskip}{0pt plus 5cm}double Coords\-::get\-Longitude\-S (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a75827c87b5718c36f6c8df091e9d025f}
+\hypertarget{classCoords_a6733bf6813065b00d254830f2f02315b}{\index{Coords@{Coords}!set\-Dec\-Latitude@{set\-Dec\-Latitude}}
+\index{set\-Dec\-Latitude@{set\-Dec\-Latitude}!Coords@{Coords}}
+\subsubsection[{set\-Dec\-Latitude}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Dec\-Latitude (
+\begin{DoxyParamCaption}
+\item[{double}]{dec\-Latitude}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a6733bf6813065b00d254830f2f02315b}
+\hypertarget{classCoords_acfe86d1cd0160163dee9119e03a78438}{\index{Coords@{Coords}!set\-Dec\-Longitude@{set\-Dec\-Longitude}}
+\index{set\-Dec\-Longitude@{set\-Dec\-Longitude}!Coords@{Coords}}
+\subsubsection[{set\-Dec\-Longitude}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Dec\-Longitude (
+\begin{DoxyParamCaption}
+\item[{double}]{dec\-Longitude}
+\end{DoxyParamCaption}
+)}}\label{classCoords_acfe86d1cd0160163dee9119e03a78438}
+\hypertarget{classCoords_a0bf0acf0cddd3ca2d010adf98400bb12}{\index{Coords@{Coords}!set\-Latitude\-D@{set\-Latitude\-D}}
+\index{set\-Latitude\-D@{set\-Latitude\-D}!Coords@{Coords}}
+\subsubsection[{set\-Latitude\-D}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Latitude\-D (
+\begin{DoxyParamCaption}
+\item[{double}]{latitude\-D}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a0bf0acf0cddd3ca2d010adf98400bb12}
+\hypertarget{classCoords_ad0384a14a8c3665c367723574ed6c145}{\index{Coords@{Coords}!set\-Latitude\-M@{set\-Latitude\-M}}
+\index{set\-Latitude\-M@{set\-Latitude\-M}!Coords@{Coords}}
+\subsubsection[{set\-Latitude\-M}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Latitude\-M (
+\begin{DoxyParamCaption}
+\item[{double}]{latitude\-M}
+\end{DoxyParamCaption}
+)}}\label{classCoords_ad0384a14a8c3665c367723574ed6c145}
+\hypertarget{classCoords_ab87a774c4b6eff3abf498a39e767c416}{\index{Coords@{Coords}!set\-Latitude\-S@{set\-Latitude\-S}}
+\index{set\-Latitude\-S@{set\-Latitude\-S}!Coords@{Coords}}
+\subsubsection[{set\-Latitude\-S}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Latitude\-S (
+\begin{DoxyParamCaption}
+\item[{double}]{latitude\-S}
+\end{DoxyParamCaption}
+)}}\label{classCoords_ab87a774c4b6eff3abf498a39e767c416}
+\hypertarget{classCoords_a8d32d6e7a46e5754120f9024c27df7a5}{\index{Coords@{Coords}!set\-Longitude\-D@{set\-Longitude\-D}}
+\index{set\-Longitude\-D@{set\-Longitude\-D}!Coords@{Coords}}
+\subsubsection[{set\-Longitude\-D}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Longitude\-D (
+\begin{DoxyParamCaption}
+\item[{double}]{longitude\-D}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a8d32d6e7a46e5754120f9024c27df7a5}
+\hypertarget{classCoords_a7d54f335e89544d1f1cdab70eebc6fed}{\index{Coords@{Coords}!set\-Longitude\-M@{set\-Longitude\-M}}
+\index{set\-Longitude\-M@{set\-Longitude\-M}!Coords@{Coords}}
+\subsubsection[{set\-Longitude\-M}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Longitude\-M (
+\begin{DoxyParamCaption}
+\item[{double}]{longitude\-M}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a7d54f335e89544d1f1cdab70eebc6fed}
+\hypertarget{classCoords_a5c2ac2d68dee771445b953e158bc5505}{\index{Coords@{Coords}!set\-Longitude\-S@{set\-Longitude\-S}}
+\index{set\-Longitude\-S@{set\-Longitude\-S}!Coords@{Coords}}
+\subsubsection[{set\-Longitude\-S}]{\setlength{\rightskip}{0pt plus 5cm}void Coords\-::set\-Longitude\-S (
+\begin{DoxyParamCaption}
+\item[{double}]{longitude\-S}
+\end{DoxyParamCaption}
+)}}\label{classCoords_a5c2ac2d68dee771445b953e158bc5505}
+
+
+The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{coords_8h}{coords.\-h}\item 
+\hyperlink{coords_8cpp}{coords.\-cpp}\end{DoxyCompactItemize}

@@ -1,0 +1,113 @@
+\hypertarget{classRadar}{\section{Radar Class Reference}
+\label{classRadar}\index{Radar@{Radar}}
+}
+
+
+Trieda \hyperlink{classRadar}{Radar}.  
+
+
+
+
+{\ttfamily \#include $<$radar.\-h$>$}
+
+
+
+Collaboration diagram for Radar\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=144pt]{classRadar__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classRadar_a7b410a3b89ddce8d0cd887cec9a68e4c}{Radar} (\hyperlink{classCoords}{Coords}, \hyperlink{classCoords}{Coords})
+\item 
+double \hyperlink{classRadar_acd5a884b01ca6a2f63fd2e09a2521709}{get\-Distance} (void)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+const double \hyperlink{classRadar_ab545a02c2a5d688cb520115fc0e4dcf4}{sac} =48.\-0
+\item 
+double \hyperlink{classRadar_a462d860ac5b4af6246074aae7082c94c}{direct\-Distance}
+\item 
+\hyperlink{classCoords}{Coords} \hyperlink{classRadar_a2475d8141970088a5a6aa92eb0f6535d}{self\-Poz}
+\item 
+\hyperlink{classCoords}{Coords} \hyperlink{classRadar_aed5172c436c4a1803d6d9f978f3eee02}{other\-Poz}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Trieda \hyperlink{classRadar}{Radar}. 
+
+Trieda predstavuje model radaru. 
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{classRadar_a7b410a3b89ddce8d0cd887cec9a68e4c}{\index{Radar@{Radar}!Radar@{Radar}}
+\index{Radar@{Radar}!Radar@{Radar}}
+\subsubsection[{Radar}]{\setlength{\rightskip}{0pt plus 5cm}Radar\-::\-Radar (
+\begin{DoxyParamCaption}
+\item[{{\bf Coords}}]{self\-Poz, }
+\item[{{\bf Coords}}]{other\-Poz}
+\end{DoxyParamCaption}
+)}}\label{classRadar_a7b410a3b89ddce8d0cd887cec9a68e4c}
+Konstruktor triedy \hyperlink{classRadar}{Radar} obsahujuci vlastnu a vzdialenu suradnicu.
+
+Konstruktor ma ako vstupne argumenty dva parametre typu \hyperlink{classCoords}{Coords}.
+
+
+\begin{DoxyParams}{Parameters}
+{\em array\-Size} & size of dynamically allocated array \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+nothing 
+\end{DoxyReturn}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{classRadar_acd5a884b01ca6a2f63fd2e09a2521709}{\index{Radar@{Radar}!get\-Distance@{get\-Distance}}
+\index{get\-Distance@{get\-Distance}!Radar@{Radar}}
+\subsubsection[{get\-Distance}]{\setlength{\rightskip}{0pt plus 5cm}double Radar\-::get\-Distance (
+\begin{DoxyParamCaption}
+\item[{void}]{}
+\end{DoxyParamCaption}
+)}}\label{classRadar_acd5a884b01ca6a2f63fd2e09a2521709}
+Funkcia get\-Distance triedy \hyperlink{classRadar}{Radar} pocitajuca vzdialenost.
+
+Funkcia pocita vzdialenost pomocou kniznice Geographic\-Lib vytvorenu pre geograficke vypocty. 
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=346pt]{classRadar_acd5a884b01ca6a2f63fd2e09a2521709_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+\subsection{Member Data Documentation}
+\hypertarget{classRadar_a462d860ac5b4af6246074aae7082c94c}{\index{Radar@{Radar}!direct\-Distance@{direct\-Distance}}
+\index{direct\-Distance@{direct\-Distance}!Radar@{Radar}}
+\subsubsection[{direct\-Distance}]{\setlength{\rightskip}{0pt plus 5cm}double Radar\-::direct\-Distance}}\label{classRadar_a462d860ac5b4af6246074aae7082c94c}
+Vzdialenost od inej wgs suradnice \hypertarget{classRadar_aed5172c436c4a1803d6d9f978f3eee02}{\index{Radar@{Radar}!other\-Poz@{other\-Poz}}
+\index{other\-Poz@{other\-Poz}!Radar@{Radar}}
+\subsubsection[{other\-Poz}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Coords} Radar\-::other\-Poz}}\label{classRadar_aed5172c436c4a1803d6d9f978f3eee02}
+Pozicia od ktorej sa pocita vzdialenost \hypertarget{classRadar_ab545a02c2a5d688cb520115fc0e4dcf4}{\index{Radar@{Radar}!sac@{sac}}
+\index{sac@{sac}!Radar@{Radar}}
+\subsubsection[{sac}]{\setlength{\rightskip}{0pt plus 5cm}const double Radar\-::sac =48.\-0}}\label{classRadar_ab545a02c2a5d688cb520115fc0e4dcf4}
+S\-A\-C identifikator \hypertarget{classRadar_a2475d8141970088a5a6aa92eb0f6535d}{\index{Radar@{Radar}!self\-Poz@{self\-Poz}}
+\index{self\-Poz@{self\-Poz}!Radar@{Radar}}
+\subsubsection[{self\-Poz}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Coords} Radar\-::self\-Poz}}\label{classRadar_a2475d8141970088a5a6aa92eb0f6535d}
+Vlastna pozicia radaru 
+
+The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{radar_8h}{radar.\-h}\item 
+\hyperlink{radar_8cpp}{radar.\-cpp}\end{DoxyCompactItemize}
