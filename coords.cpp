@@ -12,14 +12,40 @@ T sgn(T n){
     if (n < 0) return -1;
     if (n > 0) return 1;
     return 0;
-    }
+}
 /**
  * Impicitny konstruktor
 */
 Coords::Coords(){}
-
 /**
- * Konstruktor triedy Coords obsahujuci vstupne suradnice.
+ * Konstruktor triedy Coords obsahujuci vstupne suradnice v decimalnych stupnoch.
+ *
+*/
+Coords::Coords(double decLatitude, double decLongitude, double decHeightAboveGeoid ){
+    this->decLatitude=decLatitude;
+    this->decLongitude=decLongitude;
+    this->decHeightAboveGeoid=decHeightAboveGeoid;
+
+    projPJ pj_latlong, pj_geocent;
+    int p;
+
+    if (!(pj_latlong = pj_init_plus("+proj=latlong +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
+        exit(1);
+    if (!(pj_geocent = pj_init_plus("+proj=geocent +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
+        exit(1);
+
+    this->cartX=this->decLongitude;
+    this->cartY=this->decLatitude;
+    this->cartZ=this->decHeightAboveGeoid;
+
+    this->cartX *= DEG_TO_RAD;
+    this->cartY *= DEG_TO_RAD;
+
+    p = pj_transform(pj_latlong, pj_geocent, 1, 1, &this->cartX, &this->cartY, &this->cartZ);
+
+}
+/**
+ * Konstruktor triedy Coords obsahujuci vstupne suradnice v stupnoch minutach sekundach.
  *
  * Konstruktor ma ako vstupne argumenty sestticu cisel predstavujucich stupne minuty a sekundy zemepisnej sirky a dlzky.
  *
@@ -40,29 +66,22 @@ Coords::Coords(double latitudeD,double latitudeM,double latitudeS,double longitu
     this->decLongitude=sgn(this->longitudeD)* (abs(this->longitudeD) + (this->longitudeM / 60.0) + (this->longitudeS / 3600.0)); /**< Prevod zemepisnej dlzky do dekadickych stupnov */
 
     //############################## pocitanie cartezkych suradnic pomocou proj4 #####################################################
-       projPJ pj_latlong, pj_geocent;
-        double x,y,z;
-       int p;
+    projPJ pj_latlong, pj_geocent;
+    int p;
 
-       if (!(pj_latlong = pj_init_plus("+proj=latlong +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
-          exit(1);
-       if (!(pj_geocent = pj_init_plus("+proj=geocent +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
-          exit(1);
+    if (!(pj_latlong = pj_init_plus("+proj=latlong +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
+        exit(1);
+    if (!(pj_geocent = pj_init_plus("+proj=geocent +ellps=WGS84 +a=6378137 +b=6356752.3142")) )
+        exit(1);
 
+    this->cartX=this->decLongitude;
+    this->cartY=this->decLatitude;
+    this->cartZ=this->decHeightAboveGeoid;
 
+    this->cartX *= DEG_TO_RAD;
+    this->cartY *= DEG_TO_RAD;
 
-
-           this->cartX=this->decLongitude;
-           this->cartY=this->decLatitude;
-           this->cartZ=this->decHeightAboveGeoid;
-
-       this->cartY=38.889139;
-       this->cartX=-77.049;
-           this->cartX *= DEG_TO_RAD;
-           this->cartY *= DEG_TO_RAD;
-           this->cartZ = 0;
-
-           p = pj_transform(pj_latlong, pj_geocent, 1, 1, &this->cartX, &this->cartY, &this->cartZ);
+    p = pj_transform(pj_latlong, pj_geocent, 1, 1, &this->cartX, &this->cartY, &this->cartZ);
 
 }
 
@@ -85,15 +104,15 @@ double Coords::getLongitudeD(){ return this->longitudeD; }
 double Coords::getLongitudeM(){ return this->longitudeM; }
 double Coords::getLongitudeS(){ return this->longitudeS; }
 
-double Coords::getDecLatitude(){return this->decLatitude;}
-double Coords::getDecLongitude(){return this->decLongitude;}
-double Coords::getDecHeightAboveGeoid(){return this->decHeightAboveGeoid;}
+double Coords::getDecLatitude(){return this->decLatitude; }
+double Coords::getDecLongitude(){return this->decLongitude; }
+double Coords::getDecHeightAboveGeoid(){return this->decHeightAboveGeoid; }
 
 double Coords::getCartX(void){return this->cartX;}
 double Coords::getCartY(void){return this->cartY;}
 double Coords::getCartZ(void){return this->cartZ;}
 
- // degree to decimal
+// degree to decimal
 
 void Coords::DegToDec(void){
 }

@@ -12,6 +12,7 @@ public:
     TestCoord();
 private slots:
     void test_DegreeToDecimal();
+    void test_WGS_To_ECEF();
 
 
 };

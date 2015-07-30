@@ -30,6 +30,7 @@ private:
 
 public:
     Coords();
+    Coords(double,double,double);
     Coords(double,double,double,double,double,double);
 
 
