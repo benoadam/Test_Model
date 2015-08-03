@@ -74,8 +74,8 @@ void TestCoord::test_DegreeToDecimal(){
 }
 
 void TestCoord::test_WGS_To_ECEF(){
-        double error=0.10; // error na testovanie testu(ak pridam velku hodnotu test ma ukazat fail koli mimohranicnej hodnote)
-        double delta = 0.1;//hranicna prenost s akou sa ma testovat
+        double error = 0.01; // error na testovanie testu(ak pridam velku hodnotu test ma ukazat fail koli mimohranicnej hodnote)
+        double delta = 0.10;//hranicna prenost s akou sa ma testovat
 
     QVERIFY((c1.getCartX()+error)-delta <= 1114103.15 && (c1.getCartX()+error)+delta >=1114103.15);
     QVERIFY((c1.getCartY()+error)-delta <= -4844609.77 && (c1.getCartY()+error)+delta >=-4844609.77);

@@ -67,7 +67,7 @@ public:
     double getCartZ(void);
     // degre to decimal
 
-    void DegToDec(void);
+    void calcDegToDec(void);
 
 };
 
