@@ -28,7 +28,7 @@ Coords::Coords(double decLatitude, double decLongitude, double decHeightAboveGeo
     this->decLongitude=decLongitude;
     this->decHeightAboveGeoid=decHeightAboveGeoid;
 
-    calcDegToDec();
+    calcDegToDec(); //prevod z WGS do Kartezianskej sustavy
 }
 
 /**
@@ -52,7 +52,7 @@ Coords::Coords(double latitudeD,double latitudeM,double latitudeS,double longitu
     this->decLatitude=sgn(this->latitudeD)* (abs(this->latitudeD) + (this->latitudeM / 60.0) + (this->latitudeS / 3600.0)); /**< Prevod zemepisnej sirky do dekadickych stupnov */
     this->decLongitude=sgn(this->longitudeD)* (abs(this->longitudeD) + (this->longitudeM / 60.0) + (this->longitudeS / 3600.0)); /**< Prevod zemepisnej dlzky do dekadickych stupnov */
 
-    calcDegToDec();
+    calcDegToDec(); //prevod z WGS do Kartezianskej sustavy
 }
 
 //setters

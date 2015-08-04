@@ -5,7 +5,7 @@
 #include "coords.h"
 #include "radar.h"
 #include <iostream>
-
+#include "trajectory.h"
 //#if 1
 //// This is all you need to run all the tests
 //TEST_MAIN
@@ -36,17 +36,27 @@ int main(int argc, char *argv[])
 //    double z=c1.getCartZ();
 //    cout<<"x: "<<x<<"y: "<<y<<"z: "<<z<<endl;
 
-    Coords deg__mssr__veljav(48,15,38.56,17,9,47.83);
-    Coords deg_mssr__bucen(48,18,19.95,19,52,14.61);
-    Radar r1(deg__mssr__veljav,deg_mssr__bucen);
-    double dist=r1.getDistance();
-    cout<<"r1 dist:"<<dist<<endl;
+//    Coords deg__mssr__veljav(48,15,38.56,17,9,47.83);
+//    Coords deg_mssr__bucen(48,18,19.95,19,52,14.61);
+//    Radar r1(deg__mssr__veljav,deg_mssr__bucen);
+//    double dist=r1.getDistance();
+//    cout<<"r1 dist:"<<dist<<endl;
 
-    Coords dec__mssr__veljav(48.2607111,17.1632861,0);
-    Coords dec_mssr__bucen(48.3055417,19.8707250,0);
-    Radar r2(dec__mssr__veljav,dec_mssr__bucen);
-    double dist2=r2.getDistance();
-    cout<<"r2 dist2:"<<dist2<<endl;
+//    Coords dec__mssr__veljav(48.2607111,17.1632861,0);
+//    Coords dec_mssr__bucen(48.3055417,19.8707250,0);
+//    Radar r2(dec__mssr__veljav,dec_mssr__bucen);
+//    double dist2=r2.getDistance();
+//    cout<<"r2 dist2:"<<dist2<<endl;
+
+    Coords ruzomberok(49.078611,19.308333,0);
+    Coords bystrica(48.738611,19.156944,0);
+    Coords kosice(48.72,21.258056,0);
+    double azimut=104.9;
+    double qutatumStep=10000;
+
+
+    Trajectory t1(ruzomberok,kosice,azimut,qutatumStep);
+    t1.calcPath();
 
     return failures;
  }

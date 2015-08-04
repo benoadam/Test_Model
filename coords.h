@@ -29,10 +29,10 @@ private:
     double cartZ;
 
 public:
-    Coords();
-    Coords(double,double,double);
-    Coords(double,double,double,double,double,double);
 
+    Coords(); //implicitny (bezparametricky) konstruktor
+    Coords(double,double,double); //konstruktor pre dekadicke WGS suradnice
+    Coords(double,double,double,double,double,double); //konstruktor pre degree suradnice
 
     //setters
     void setLatitudeD(double);

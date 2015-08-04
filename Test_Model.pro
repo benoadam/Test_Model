@@ -19,13 +19,15 @@ SOURCES += main.cpp \
     coords.cpp \
     radar.cpp \
     test_coord.cpp \
-    test_radar.cpp
+    test_radar.cpp \
+    trajectory.cpp
 
 HEADERS += \
     coords.h \
     radar.h \
     AutoTest.h \
     test_coord.h \
-    test_radar.h
+    test_radar.h \
+    trajectory.h
 LIBS += -lproj \
     -lGeographic
