@@ -51,12 +51,12 @@ int main(int argc, char *argv[])
     Coords ruzomberok(49.078611,19.308333,0);
     Coords bystrica(48.738611,19.156944,0);
     Coords kosice(48.72,21.258056,0);
-    double azimut=104.9;
-    double qutatumStep=10000;
+
+    double qutatumStep=1000;
 
 
-    Trajectory t1(ruzomberok,kosice,azimut,qutatumStep);
-    t1.calcPath();
+    Trajectory t1(ruzomberok,kosice,qutatumStep);
+    t1.calcLengthPath();
 
     return failures;
  }

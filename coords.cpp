@@ -1,5 +1,5 @@
 #include "coords.h"
-/** @file coords.cpp
+/** @file coords.h
 * @brief Tento subor obsahuje konstruktor a metody triedy Coords predstavujuce suradnice radaroveho systemu.
 
 * Mozny obsahlejsi popis na vice
